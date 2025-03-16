@@ -1,13 +1,13 @@
-Advanced Bank Loan Data Analysis: Empowering Decision-Making through Dynamic Insights
+**Advanced Bank Loan Data Analysis: Empowering Decision-Making through Dynamic Insights**
 
-Problem Statement: The current loan data analysis approach lacks depth and interactivity, limiting the ability to extract meaningful insights for informed decision-making. Traditional reporting methods fail to provide a comprehensive view of lending operations, borrower behavior, and loan performance metrics. To overcome these limitations, there is a need for an advanced, interactive dashboard that unlocks the full potential of loan data.
-
-
-Objective: The goal is to develop a suite of interconnected dashboards that deliver dynamic, in-depth insights into loan data. These dashboards will empower decision-makers with actionable intelligence through robust data analysis. Designed for a holistic perspective, they will cover lending operations, borrower demographics, loan performance, and financial metrics, facilitating strategic decision-making based on data-driven insights.
+**Problem Statement:** The current loan data analysis approach lacks depth and interactivity, limiting the ability to extract meaningful insights for informed decision-making. Traditional reporting methods fail to provide a comprehensive view of lending operations, borrower behavior, and loan performance metrics. To overcome these limitations, there is a need for an advanced, interactive dashboard that unlocks the full potential of loan data.
 
 
-PAGE 1: Executive Summary
-Purpose: This dashboard provides a high-level overview of critical Key Performance Indicators (KPIs) essential for evaluating the efficiency and effectiveness of lending operations.
+**Objective: **The goal is to develop a suite of interconnected dashboards that deliver dynamic, in-depth insights into loan data. These dashboards will empower decision-makers with actionable intelligence through robust data analysis. Designed for a holistic perspective, they will cover lending operations, borrower demographics, loan performance, and financial metrics, facilitating strategic decision-making based on data-driven insights.
+
+
+**PAGE 1: Executive Summary**
+**Purpose:** This dashboard provides a high-level overview of critical Key Performance Indicators (KPIs) essential for evaluating the efficiency and effectiveness of lending operations.
 Key Features:
 •	Total Loan Applications: Track the total number of applications and Month-to-Date (MTD) figures, analyzing Month-over-Month (MoM) trends for deeper insights.
 
@@ -19,13 +19,13 @@ Key Features:
 
 •	Average Debt-to-Income Ratio (DTI): Analyze borrowers' financial health by computing the average DTI, tracking variations over time.
 
-Loan Performance Analysis:
+**Loan Performance Analysis:**
 •	Categorize loans into "Good" and "Bad" segments based on KPIs such as application percentages, funded amounts, and received amounts.
 
 •	Implement a "Loan Status Grid View" to provide a detailed breakdown of loan status, offering insights into various performance metrics to support data-driven decision-making.
 
-PAGE 2: Trends & Overview
-Purpose: This dashboard presents interactive visualizations to highlight lending trends, borrower demographics, and loan purposes, enabling pattern recognition and opportunity identification.
+**PAGE 2: Trends & Overview**
+**Purpose:** This dashboard presents interactive visualizations to highlight lending trends, borrower demographics, and loan purposes, enabling pattern recognition and opportunity identification.
 Key Visualizations:
 •	Monthly Trends by Issue Date (Line Chart): Analyze seasonality and long-term trends in lending activities.
 
@@ -40,12 +40,12 @@ Key Visualizations:
 •	Home Ownership Analysis (Tree Map): Explore the relationship between home ownership and loan applications/disbursements.
 
 
-PAGE 3: Detailed Insights
-Purpose: This dashboard provides an in-depth exploration of loan data, equipping users with comprehensive access to key metrics and loan details to support informed decision-making.
+**PAGE 3: Detailed Insights**
+**Purpose:** This dashboard provides an in-depth exploration of loan data, equipping users with comprehensive access to key metrics and loan details to support informed decision-making.
 Objective: Designed as a user-friendly analytical tool, this dashboard enhances the ability to perform detailed assessments of the loan portfolio, strengthening lending strategies.
 
 
-Implementation Strategy:
+**Implementation Strategy:**
 •	Ensure an intuitive layout for seamless navigation and interaction across all dashboards.
 
 •	Integrate real-time data updates for continuous monitoring and decision-making.
